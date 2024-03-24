@@ -1,4 +1,14 @@
-### Hi there 👋
+# Greetings Earthlings!
+**I am Marco.**
+
+![GitHub Logo](https://images.creativemarket.com/0.1.0/ps/1257369/300/200/m2/fpnw/wm0/alien-laptop-cover-.png?1462888410&s=26169efaea7003467e8c440d6425d032)
+
+ About me:
+  1. I am learning to code with my mates so that our wives would not understand our language. Only to find out our wives have started skills bootcamp too.
+  2. I am a Nurse.
+  3. Movie lines can keep me motivated. As Mr. Miyagi said: >“A man who can catch a fly with chopsticks can accomplish anything." 
+
+
 
 <!--
 **marcotabbada/marcotabbada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
