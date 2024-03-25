@@ -3,24 +3,15 @@
 
 ![GitHub Logo](https://images.creativemarket.com/0.1.0/ps/1257369/300/200/m2/fpnw/wm0/alien-laptop-cover-.png?1462888410&s=26169efaea7003467e8c440d6425d032)
 
- About me:
-  1. I am learning to code with my mates so that our wives would not understand our language. Only to find out our wives have started skills bootcamp too.
-  2. I am a Nurse.
-  3. Movie lines can keep me motivated. As Mr. Miyagi said: >“A man who can catch a fly with chopsticks can accomplish anything." 
 
+I have been a Registered Nurse since year 2006. I specialize in Oncology and Haematology. This job is fulfilling but I wish to learn new skills outside of nursing. Hence, I joined the Skills Bootcamp for Software Engineer. 
+I find the training to be challenging, yet extremely satisfying.  
 
+I am currently learning Python and I am hoping to land a job in the tech industry.
 
-<!--
-**marcotabbada/marcotabbada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     email: tabbadamarco@gmail.com
+     
+     linkedin: www.linkedin.com/in/marco-tabbada-024586299
+     
